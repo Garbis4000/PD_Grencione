@@ -19,7 +19,7 @@
 #9 Saukums Krists
 
 #10 Sprūģis Gabriels
-
+print(cos(radians(60)+fmod(15,2)))
 #11 Stankevičs Viesturs
 
 #12 Strazds Emīls
